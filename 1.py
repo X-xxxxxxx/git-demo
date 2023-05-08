@@ -111,3 +111,4 @@ plt.xlabel(r'time')
 plt.ylabel(r'vibration_data')
 plt.title(r'continuous')
 plt.show()
+
