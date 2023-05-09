@@ -112,3 +112,7 @@ plt.ylabel(r'vibration_data')
 plt.title(r'continuous')
 plt.show()
 
+
+
+
+## i love you:
